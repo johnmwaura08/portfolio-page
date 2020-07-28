@@ -123,3 +123,15 @@ nav a {
     background-color: #a64253;
     color: #fff;
   }
+  .social-ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+  .social-ul a {
+    color: #fff;
+    font-size: 30px;
+    margin: 0 10px;
+  }
