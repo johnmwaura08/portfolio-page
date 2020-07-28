@@ -94,3 +94,32 @@ nav a {
   section h2 {
     margin: 5px;
   }
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: 20px auto 0;
+  }
+  .project-tile {
+    max-width: 250px;
+    margin: 10px;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+  }
+  .project-tile:hover {
+    transform: scale(1.07);
+  }
+  .project-tile img {
+    max-width: 100%;
+  }
+  .project-tile p {
+    font-size: 20px;
+    margin-top: 10px;
+    color: #000;
+  }
+  .bg-greyish {
+    background-color: #a64253;
+    color: #fff;
+  }
