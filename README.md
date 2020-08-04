@@ -1,2 +1,1 @@
-# portfolio-page-fcc
-# free-code-camp project for the Responsive Web Design Module
+## This is a custom template of my portfolio showing skills, certificates and projects that  i've worked on
